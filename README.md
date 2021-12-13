@@ -1,7 +1,8 @@
 # AgroChain
 
 ### Student
-> Melek Salaani - CySeD 2021/2022
+> Melek Salaani - CySeD 2021/2022 <br>
+> email: melek.salaani@supcom.tn
 
 <br>
 
