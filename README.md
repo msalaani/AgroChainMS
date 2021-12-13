@@ -5,7 +5,36 @@
 
 <br>
 
-### Project Tree
+## Dependencies
+NodJS
+
+Truffle
+
+Ganache
+
+<br>
+
+## Installation and Running
+1. Download the project source code from GitHub repo:<br>
+```git clone https://github.com/msalaani/AgroChainMS```
+
+2. Enter the project folder and install all dependencies<br>
+```
+npm install
+```
+3. Deploy the contracts with <br>
+```
+truffle migrate
+```
+4. Then to run the frontend run<br>
+```
+npm run dev
+```
+
+<br>
+
+
+## Project Tree
 
 ```
 |   .gitignore
