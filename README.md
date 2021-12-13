@@ -41,7 +41,7 @@ npm run dev
 |   bs-config.json
 |   package-lock.json
 |   package.json
-|	README.md
+|   README.md
 |   truffle-config.js
 |   
 |---contracts
