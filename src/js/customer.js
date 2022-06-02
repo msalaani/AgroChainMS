@@ -107,7 +107,7 @@ App = {
     },
 
     initContract: function () {
-        $.getJSON('js/Agrochain.json', function (data) {
+        $.getJSON('js/AgroChain.json', function (data) {
             // Get the necessary contract artifact file and instantiate it with truffle-contract
             var AgroChainArtifact = data;
             App.contracts.AgroChain = TruffleContract(AgroChainArtifact);
